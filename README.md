@@ -13,33 +13,7 @@ The study integrates real-world radio measurements (RSSI and SNR) with ERA5-Land
 ---
 
 Repository Structure
-
-#radio-clima-5ghz/
-#│
-#├── data/
-#│   └── processed/
-#│       └── dataset_final_radio_clima.csv
-#│
-#├── results/
-#│   └── figures/
-#│       ├── fig1_rssi_timeseries.png
-#│       ├── fig2_precipitation_timeseries.png
-#│       ├── fig3_scatter.png
-#│       ├── fig4_boxplot.png
-#│       ├── fig5_correlation.png
-#│       ├── fig6_feature_importance.png
-#│       ├── fig7_predicted_vs_actual.png
-#│       └── fig8_model_comparison.png
-#│
-#├── scripts/
-#│   ├── dataset_canon.py
-#│   ├── clima_era5_incremental.py
-#│   ├── dataset_final_radio_clima.py
-#│   ├── graficos_canon.py
-#│   └── modelo_predictivo.py
-#│
-#├── README.md
-#├── LICENSE
+see in results/figures
 
 ---
 
