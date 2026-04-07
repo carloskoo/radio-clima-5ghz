@@ -13,8 +13,7 @@ The study integrates real-world radio measurements (RSSI and SNR) with ERA5-Land
 ---
 
 Repository Structure
-see in results/figures
-
+![Project Structure](results/figures/Structure.png)
 ---
 
 ⚙️ Requirements
